@@ -9,6 +9,8 @@
         "aaron-bond.better-comments",
         "njpwerner.autodocstring",
         "usernamehw.errorlens",
-        "DavidAnson.vscode-markdownlint"
+        "davidanson.vscode-markdownlint",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.remote-containers"
     ]
 }
