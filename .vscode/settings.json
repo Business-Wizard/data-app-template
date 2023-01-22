@@ -60,7 +60,7 @@
     "files.trimTrailingWhitespace": true,
     "git.allowForcePush": true,
     "git.allowNoVerifyCommit": true,
-    "git.enableCommitSigning": true,
+    "git.enableCommitSigning": false,
     "git.mergeEditor": false,
     "gitlens.advanced.messages": {
         "suppressCreatePullRequestPrompt": true
