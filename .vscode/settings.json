@@ -77,7 +77,7 @@
         "--line-length 100",
         "--S"
     ],
-    "python.formatting.provider": "black",
+    "python.formatting.provider": "yapf",
     "python.languageServer": "Pylance",
     "python.linting.flake8Args": [
         "--max-line-length=100"
